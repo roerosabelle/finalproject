@@ -1,7 +1,6 @@
 //variables 
 const section = document.querySelector("section");
 let inputField = document.querySelector("#todoField");
-let check = document.querySelector(".line");
 
 let todoArr = [];
 
